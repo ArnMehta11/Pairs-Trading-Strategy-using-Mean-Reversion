@@ -13,8 +13,7 @@ Features
 Methodology
 * Rolling Window – Calculate mean and standard deviation of prices over a defined period.
 * Z-Score Calculation – Standardize price deviations from the rolling mean.
-* Trade Signals: 
-** Long Entry: Z-score < -1
-** Short Entry: Z-score > +1
-** Exit: Z-score returning toward zero.
+* Trade Signals: Long Entry: Z-score < -1, Short Entry: Z-score > +1
 * Backtesting – Apply signals to historical data and compute strategy metrics.
+
+Notably, as different investors have different risk apetities and may not want to take on any idiosyncratic risk associated with Target or Microsoft, they may download the code and change tickers and use ETFs instead for lower, risk-adjusted returns. 
