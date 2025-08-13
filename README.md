@@ -16,4 +16,4 @@ Methodology
 * Trade Signals: Long Entry: Z-score < -1, Short Entry: Z-score > +1
 * Backtesting – Apply signals to historical data and compute strategy metrics.
 
-Notably, as different investors have different risk apetities and may not want to take on any idiosyncratic risk associated with Target or Microsoft, they may download the code and change tickers and use ETFs instead for lower, risk-adjusted returns. 
+Notably, as different investors  each have different levels of risk apetitie and may not want to take on any idiosyncratic risk associated with Target or Microsoft, they may download the code and change tickers and use ETFs instead for lower, risk-adjusted returns.  Furthermore, the way the current code is written it is easy to change certain parameters such as the rolling window that is taken, the time backtested etc...
